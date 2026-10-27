@@ -1,0 +1,6 @@
+# Archivos de datos que el programa genera al ejecutarse
+*.dat
+
+# Python
+__pycache__/
+*.pyc
